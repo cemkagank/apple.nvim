@@ -2,6 +2,9 @@
 
 A Neovim colorscheme inspired by Apple system UI colors (Ghostty / iTerm2).
 
+![Ghostty](docs/screenshots/ghostty.png)
+
+
 ## What it themes
 
 `apple.nvim` sets a small, focused set of highlight groups for:
@@ -37,10 +40,3 @@ If that command is unavailable (e.g. non-macOS), the theme falls back to the dar
 After installing, run:
 
 `:colorscheme apple`
-
-## Screenshots
-
-```md
-![ghostty](docs/screenshots/ghostty.png)
-
-```
